@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Seorang pelajar yang ingin terus berkembang</b><br/>
+  <b>Saya adalah seorang pelajar yang ingin terus berkembang</b><br/>
   
 </p>
 
@@ -22,7 +22,7 @@
 
 
 
-> <h3 align="center"> "Kesalahan adalah kebenaran yang <u>Tertunda</u>" 🚀</h3>
+ <h3 align="center"> "Kesalahan adalah kebenaran yang <u>Tertunda</u>" 🚀</h3>
 
 
 <!--
