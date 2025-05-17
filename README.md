@@ -11,7 +11,7 @@
 ---
 
 
-### 🛠️ Tools & Tech yang Saya Pakai
+### 🛠️ Alat & Bahasa pemrograman yang Saya Pakai
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,bootstrap,laravel,react" /><br>
