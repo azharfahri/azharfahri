@@ -30,7 +30,7 @@
 
 ---
 <h3 align="center"> "Kesalahan adalah kebenaran yang <u>Tertunda</u>" 🚀</h3>
----
+
 
 
 <div align="center">
@@ -40,7 +40,7 @@ Temukan saya di
 [![Instagram Badge](https://img.shields.io/badge/-fhrazharrr-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/fhrazharrr/)](https://instagram.com/fhrazharrr)
 </p>
 </div>
----
+
 
 
 
