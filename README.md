@@ -20,15 +20,23 @@
 
 ---
 
-
-
- <h3 align="center"> "Kesalahan adalah kebenaran yang <u>Tertunda</u>" 🚀</h3>
-
----
 <div align="center">
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharfahri&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/azharfahri)
  
+</div>
+
+ 
+
+---
+<h3 align="center"> "Kesalahan adalah kebenaran yang <u>Tertunda</u>" 🚀</h3>
+---
+<div align="center">
+<p>
+Temukan saya di
+
+[![Instagram Badge](https://img.shields.io/badge/-fhrazharrr-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/fhrazharrr/)](https://instagram.com/fhrazharrr)
+</p>
 </div>
 
 
