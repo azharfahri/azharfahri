@@ -22,7 +22,7 @@
 
 
 
-> "Kesalahan adalah kebenaran yang <u>Tertunda</u>" 🚀
+> <h3 align="center"> "Kesalahan adalah kebenaran yang <u>Tertunda</u>" 🚀</h3>
 
 
 <!--
