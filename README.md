@@ -1,11 +1,11 @@
-<h1 align="center">Hi Everyone! 👋</h1>
+<h1 align="center">Hai semuanya! 👋</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNjd2V3bnBkN29ndHFxa25hOWt5cXY1ZmFlbzA1eGYzNjJlZ3RjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IauL6LvGNlT3ffhcqq/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
-  <b>A passionate Backend Web Developer from Indonesia 🇮🇩</b><br/>
-  Play, Laugh, and Grow🚀
+  <b>Seorang pelajar yang ingin terus berkembang</b><br/>
+  
 </p>
 
 ---
