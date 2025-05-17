@@ -13,13 +13,10 @@
 
 ### 🛠️ Tools & Tech yang Saya Pakai
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FC6D26?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,bootstrap,laravel,react" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,figma" /><br>
+</div>
 
 ---
 
