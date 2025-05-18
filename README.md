@@ -14,7 +14,7 @@
 ### 🛠️ Alat & Bahasa pemrograman yang saya pelajari
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,bootstrap,laravel,react,node" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,bootstrap,laravel,react,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,git,github,figma" /><br>
 </div>
 
