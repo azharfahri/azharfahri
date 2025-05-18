@@ -11,7 +11,7 @@
 ---
 
 
-### 🛠️ Alat & Bahasa pemrograman yang saya pelajari
+### 🛠️ Alat, Framework & Bahasa pemrograman yang saya pelajari
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,bootstrap,laravel,react" /><br>
